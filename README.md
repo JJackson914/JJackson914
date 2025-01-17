@@ -2,11 +2,11 @@
 
 ###
 
-<img align="right" height="150" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.icegif.com%2Fwp-content%2Fuploads%2F2022%2F12%2Ficegif-502.gif&f=1&nofb=1&ipt=a25ae79cd7aa6b67d9f80d1ccf6a0c7abdaa5822d0c392f496c2844009079d66&ipo=images"  />
+<h3 align="left">Programming Languages</h3>
 
 ###
 
-<h3 align="left">Programming Languages</h3>
+<img align="right" height="150" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.icegif.com%2Fwp-content%2Fuploads%2F2022%2F12%2Ficegif-502.gif&f=1&nofb=1&ipt=a25ae79cd7aa6b67d9f80d1ccf6a0c7abdaa5822d0c392f496c2844009079d66&ipo=images"  />
 
 ###
 
@@ -51,8 +51,12 @@
 
 ###
 
-<br clear="both">
+<h4 align="center">Total Profile Views</h4>
 
-<img src="https://raw.githubusercontent.com/JJackson914/JJackson914/output/snake.svg" alt="Snake animation" />
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/JJackson914/count.svg?"  />
+</div>
 
 ###
